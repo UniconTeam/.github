@@ -10,7 +10,7 @@ Welcome to the Unicon Team organization! 🍞
 
 ## Team Members
 
-- **[Viktor Varenik](https://github.com/kotleni)**: Android/iOS Developer. Team lead overall.
+- **[Viktor Varenik](https://github.com/kotleni)**: Android/iOS Developer, Mentor, Team lead overall.
 
 - **[Denis Rechkin](https://github.com/RechkinDenis)**: C# ASP.NET Developer.
 
