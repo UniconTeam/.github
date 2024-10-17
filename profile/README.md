@@ -6,7 +6,7 @@ Welcome to the Unicon Team organization! 🍞
 
 - [Ukraine Metro](https://github.com/UniconTeam/UkraineMetro-android): Open source application for viewing maps of all subways of Ukraine.
 
-- [Dux Project](#): At this moment it's just a closed source messaging app.
+- [Fanback Project](#): Open source fanfic fandom platform. (early development)
 
 ## Team Members
 
